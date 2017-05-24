@@ -1,0 +1,34 @@
+HTTrack3.49-2 launched on Tue, 23 May 2017 21:16:21 at http://seantheme.com/color-admin-v2.2/frontend/
+(httrack http://seantheme.com/color-admin-v2.2/frontend/ -O /var/www/html/materaillaravel/frontend/ )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+21:16:36	Warning: 	Retry after error -4 (No data (connection closed)) at link seantheme.com/color-admin-v2.2/frontend/blog/assets/css/theme/default.css (from seantheme.com/color-admin-v2.2/frontend/blog/)
+21:30:34	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: seantheme.com/color-admin-v2.2/frontend/e-commerce/product-detail.html
+21:36:54	Warning: 	Retry after error -4 (No data (connection closed)) at link seantheme.com/color-admin-v2.2/frontend/e-commerce/assets/img/xperia-z2.png (from seantheme.com/color-admin-v2.2/frontend/e-commerce/)
+21:38:49	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: seantheme.com/color-admin-v2.2/frontend/forum/detail.html
+21:41:50	Warning: 	Retry after error -2 (Receive Time Out) at link seantheme.com/color-admin-v2.2/frontend/one-page-parallax/assets/img/client-bg.jpg (from seantheme.com/color-admin-v2.2/frontend/one-page-parallax/)
+21:41:57	Warning: 	Retry after error -2 (Receive Time Out) at link seantheme.com/color-admin-v2.2/frontend/blog/assets/img/cover3.jpg (from seantheme.com/color-admin-v2.2/frontend/blog/index_inverse_header.html)
+21:41:58	Warning: 	Retry after error -2 (Receive Time Out) at link seantheme.com/color-admin-v2.2/frontend/blog/assets/img/post5.jpg (from seantheme.com/color-admin-v2.2/frontend/blog/post_without_sidebar.html)
+21:42:49	Warning: 	Retry after error -2 (Receive Time Out) at link seantheme.com/color-admin-v2.2/frontend/blog/assets/img/post6.jpg (from seantheme.com/color-admin-v2.2/frontend/blog/post_without_sidebar.html)
+21:44:16	Warning: 	Retry after error -2 (Receive Time Out) at link seantheme.com/color-admin-v2.2/frontend/blog/assets/img/post7.jpg (from seantheme.com/color-admin-v2.2/frontend/blog/post_without_sidebar.html)
+21:44:29	Warning: 	Retry after error -2 (Receive Time Out) at link seantheme.com/color-admin-v2.2/frontend/blog/assets/img/about-me.jpg (from seantheme.com/color-admin-v2.2/frontend/blog/about_me.html)
+21:44:42	Warning: 	Retry after error -2 (Receive Time Out) at link seantheme.com/color-admin-v2.2/frontend/e-commerce/assets/plugins/font-awesome/fonts/fontawesome-webfont.eot? (from seantheme.com/color-admin-v2.2/frontend/e-commerce/assets/plugins/font-awesome/css/font-awesome.min.css)
+21:44:42	Warning: 	Retry after error -2 (Receive Time Out) at link seantheme.com/color-admin-v2.2/frontend/e-commerce/assets/plugins/font-awesome/fonts/fontawesome-webfont.woff?v=4.7.0 (from seantheme.com/color-admin-v2.2/frontend/e-commerce/assets/plugins/font-awesome/css/font-awesome.min.css)
+21:45:10	Error: 	"Not Found" (404) at link seantheme.com/color-admin-v2.2/frontend/e-commerce/product-detail.html (from seantheme.com/color-admin-v2.2/frontend/e-commerce/product.html)
+21:45:10	Warning: 	Retry after error -2 (Receive Time Out) at link seantheme.com/color-admin-v2.2/frontend/e-commerce/assets/img/iphone-6s-plus-4.jpg (from seantheme.com/color-admin-v2.2/frontend/e-commerce/product_detail.html)
+21:45:14	Warning: 	Retry after error -2 (Receive Time Out) at link seantheme.com/color-admin-v2.2/frontend/e-commerce/assets/img/iphone-6s-plus.png (from seantheme.com/color-admin-v2.2/frontend/e-commerce/product_detail.html)
+21:45:18	Warning: 	Retry after error -2 (Receive Time Out) at link seantheme.com/color-admin-v2.2/frontend/e-commerce/assets/img/about-us-cover.jpg (from seantheme.com/color-admin-v2.2/frontend/e-commerce/my_account.html)
+21:45:22	Warning: 	Retry after error -2 (Receive Time Out) at link seantheme.com/color-admin-v2.2/frontend/e-commerce/assets/img/my-account-cover.jpg (from seantheme.com/color-admin-v2.2/frontend/e-commerce/my_account.html)
+21:47:33	Error: 	"Not Found" (404) at link seantheme.com/color-admin-v2.2/frontend/one-page-parallax/assets/img/milestone.jpg (from seantheme.com/color-admin-v2.2/frontend/one-page-parallax/index_default_header.html)
+21:47:33	Error: 	"Not Found" (404) at link seantheme.com/color-admin-v2.2/frontend/one-page-parallax/assets/img/client.jpg (from seantheme.com/color-admin-v2.2/frontend/one-page-parallax/index_default_header.html)
+21:56:03	Warning: 	Retry after error -2 (Receive Time Out) at link seantheme.com/color-admin-v2.2/frontend/blog/assets/img/post5.jpg (from seantheme.com/color-admin-v2.2/frontend/blog/post_without_sidebar.html)
+21:57:49	Warning: 	Retry after error -2 (Receive Time Out) at link seantheme.com/color-admin-v2.2/frontend/blog/assets/img/post6.jpg (from seantheme.com/color-admin-v2.2/frontend/blog/post_without_sidebar.html)
+21:57:49	Error: 	"Not Found" (404) at link seantheme.com/color-admin-v2.2/frontend/forum/assets/js/apps,min.js (from seantheme.com/color-admin-v2.2/frontend/forum/detail.html)
+22:03:35	Error: 	"Receive Time Out" (-2) after 2 retries at link seantheme.com/color-admin-v2.2/frontend/blog/assets/img/post5.jpg (from seantheme.com/color-admin-v2.2/frontend/blog/post_without_sidebar.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 52 minutes 18 seconds : 282 links scanned, 260 files written (31644630 bytes overall), 83 files updated [27600627 bytes received at 8795 bytes/sec], 2.7 requests per connection
+(5 errors, 18 warnings, 0 messages)

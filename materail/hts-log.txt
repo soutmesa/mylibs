@@ -1,0 +1,19 @@
+HTTrack3.48-24 launched on Tue, 23 May 2017 09:51:24 at http://byrushan.com/projects/ma/1-7-1/jquery/light/
+(httrack http://byrushan.com/projects/ma/1-7-1/jquery/light/ -O /var/www/html/materail )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+10:03:22	Error: 	"Not Found" (404) at link byrushan.com/projects/ma/1-7-1/jquery/light/fonts/weather-icons/weather-icons.eot (from byrushan.com/projects/ma/1-7-1/jquery/light/css/app_1.min.css)
+10:03:22	Error: 	"Not Found" (404) at link byrushan.com/projects/ma/1-7-1/jquery/light/fonts/weather-icons/weather-icons.eot? (from byrushan.com/projects/ma/1-7-1/jquery/light/css/app_1.min.css)
+10:03:22	Error: 	"Not Found" (404) at link byrushan.com/projects/ma/1-7-1/jquery/light/fonts/weather-icons/weather-icons.woff (from byrushan.com/projects/ma/1-7-1/jquery/light/css/app_1.min.css)
+10:03:22	Error: 	"Not Found" (404) at link byrushan.com/projects/ma/1-7-1/jquery/light/fonts/weather-icons/weather-icons.ttf (from byrushan.com/projects/ma/1-7-1/jquery/light/css/app_1.min.css)
+10:03:22	Error: 	"Not Found" (404) at link byrushan.com/projects/ma/1-7-1/jquery/light/fonts/weather-icons/weather-icons.svg (from byrushan.com/projects/ma/1-7-1/jquery/light/css/app_1.min.css)
+10:03:22	Error: 	"Not Found" (404) at link byrushan.com/projects/ma/1-7-1/jquery/light/box-shadow.html (from byrushan.com/projects/ma/1-7-1/jquery/light/top-mainmenu.html)
+10:05:18	Error: 	"Not Found" (404) at link byrushan.com/projects/ma/1-7-1/jquery/light/media/big_buck_bunny.webm (from byrushan.com/projects/ma/1-7-1/jquery/light/media.html)
+10:05:18	Error: 	"Not Found" (404) at link byrushan.com/projects/ma/1-7-1/jquery/light/media/big_buck_bunny.ogv (from byrushan.com/projects/ma/1-7-1/jquery/light/media.html)
+
+HTTrack Website Copier/3.48-24 mirror complete in 13 minutes 54 seconds : 378 links scanned, 369 files written (23599936 bytes overall) [20745210 bytes received at 24874 bytes/sec], 3542551 bytes transferred using HTTP compression in 76 files, ratio 15%, 9.2 requests per connection
+(8 errors, 0 warnings, 0 messages)
