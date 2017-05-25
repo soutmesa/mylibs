@@ -1,0 +1,36 @@
+HTTrack3.49-2 launched on Thu, 25 May 2017 15:53:08 at http://templates.expresspixel.com/bootstrap_real_estate/
+(httrack http://templates.expresspixel.com/bootstrap_real_estate/ -O /var/www/html/mylibs/ )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+15:54:32	Warning: 	Retry after error -4 (No data (connection closed)) at link templates.expresspixel.com/bootstrap_real_estate/css/images/carousel_3.jpg (from templates.expresspixel.com/bootstrap_real_estate/)
+15:54:32	Warning: 	Retry after error -4 (No data (connection closed)) at link templates.expresspixel.com/bootstrap_real_estate/css/images/homes_abroad.png (from templates.expresspixel.com/bootstrap_real_estate/)
+15:54:32	Warning: 	Retry after error -4 (No data (connection closed)) at link templates.expresspixel.com/bootstrap_real_estate/js/jquery-1.11.0.min.js (from templates.expresspixel.com/bootstrap_real_estate/)
+15:54:33	Warning: 	Retry after error -4 (No data (connection closed)) at link templates.expresspixel.com/bootstrap_real_estate/js/owl-carousel/owl.theme.css (from templates.expresspixel.com/bootstrap_real_estate/)
+15:54:33	Warning: 	Retry after error -4 (No data (connection closed)) at link templates.expresspixel.com/bootstrap_real_estate/js/jquery.aw-showcase/jquery.aw-showcase.js (from templates.expresspixel.com/bootstrap_real_estate/)
+15:54:42	Warning: 	Retry after error -4 (No data (connection closed)) at link templates.expresspixel.com/bootstrap_real_estate/bootstrap/js/bootstrap.js (from templates.expresspixel.com/bootstrap_real_estate/)
+15:54:42	Warning: 	Retry after error -4 (No data (connection closed)) at link templates.expresspixel.com/bootstrap_real_estate/js/badger/badger.min.css (from templates.expresspixel.com/bootstrap_real_estate/)
+15:54:42	Warning: 	File not parsed, looks like binary: templates.expresspixel.com/bootstrap_real_estate/fonts/glyphicons-halflings-regular.woff
+15:54:42	Warning: 	File not parsed, looks like binary: templates.expresspixel.com/bootstrap_real_estate/fonts/glyphicons-halflings-regular.ttf
+15:54:42	Warning: 	Retry after error -4 (No data (connection closed)) at link templates.expresspixel.com/bootstrap_real_estate/fonts/glyphicons-halflings-regular.svg (from templates.expresspixel.com/bootstrap_real_estate/css/real_estate.css)
+15:54:42	Error: 	"Not Found" (404) at link templates.expresspixel.com/bootstrap_real_estate/category.html (from templates.expresspixel.com/bootstrap_real_estate/listings.html)
+15:54:42	Warning: 	Retry after error -4 (No data (connection closed)) at link templates.expresspixel.com/bootstrap_real_estate/css/images/gallery/room_5.jpg (from templates.expresspixel.com/bootstrap_real_estate/property.html)
+15:54:45	Warning: 	Retry after error -4 (No data (connection closed)) at link templates.expresspixel.com/bootstrap_real_estate/css/images/gallery/room_7.jpg (from templates.expresspixel.com/bootstrap_real_estate/property.html)
+15:54:46	Warning: 	Retry after error -4 (No data (connection closed)) at link templates.expresspixel.com/bootstrap_real_estate/css/images/gallery/room_8.jpg (from templates.expresspixel.com/bootstrap_real_estate/property.html)
+15:54:46	Warning: 	Retry after error -4 (No data (connection closed)) at link templates.expresspixel.com/bootstrap_real_estate/css/images/thumbnails/room_2.jpg (from templates.expresspixel.com/bootstrap_real_estate/property.html)
+15:54:47	Warning: 	Retry after error -4 (No data (connection closed)) at link templates.expresspixel.com/bootstrap_real_estate/css/images/homes_abroad.png (from templates.expresspixel.com/bootstrap_real_estate/)
+15:54:48	Warning: 	Retry after error -4 (No data (connection closed)) at link templates.expresspixel.com/bootstrap_real_estate/js/jquery.aw-showcase/images/left-arrow.png (from templates.expresspixel.com/bootstrap_real_estate/js/jquery.aw-showcase/css/style.css)
+15:54:49	Warning: 	Retry after error -4 (No data (connection closed)) at link templates.expresspixel.com/bootstrap_real_estate/js/jquery.aw-showcase/images/right-arrow.png (from templates.expresspixel.com/bootstrap_real_estate/js/jquery.aw-showcase/css/style.css)
+15:54:49	Warning: 	Retry after error -4 (No data (connection closed)) at link templates.expresspixel.com/bootstrap_real_estate/js/jquery.aw-showcase/images/plus.png (from templates.expresspixel.com/bootstrap_real_estate/js/jquery.aw-showcase/css/style.css)
+15:54:50	Warning: 	Retry after error -4 (No data (connection closed)) at link templates.expresspixel.com/bootstrap_real_estate/js/jquery.aw-showcase/images/white-opacity-80.png (from templates.expresspixel.com/bootstrap_real_estate/js/jquery.aw-showcase/css/style.css)
+15:54:51	Warning: 	Retry after error -4 (No data (connection closed)) at link templates.expresspixel.com/bootstrap_real_estate/css/images/gallery/room_8.jpg (from templates.expresspixel.com/bootstrap_real_estate/property.html)
+15:54:51	Warning: 	Retry after error -4 (No data (connection closed)) at link templates.expresspixel.com/bootstrap_real_estate/css/images/thumbnails/room_2.jpg (from templates.expresspixel.com/bootstrap_real_estate/property.html)
+15:54:54	Warning: 	Retry after error -4 (No data (connection closed)) at link templates.expresspixel.com/bootstrap_real_estate/js/jquery.aw-showcase/images/left-arrow.png (from templates.expresspixel.com/bootstrap_real_estate/js/jquery.aw-showcase/css/style.css)
+15:54:54	Error: 	"Not Found" (404) at link templates.expresspixel.com/bootstrap_real_estate/js/jquery.aw-showcase/images/plus.png (from templates.expresspixel.com/bootstrap_real_estate/js/jquery.aw-showcase/css/style.css)
+15:54:54	Error: 	"No data (connection closed)" (-4) after 2 retries at link templates.expresspixel.com/bootstrap_real_estate/css/images/gallery/room_8.jpg (from templates.expresspixel.com/bootstrap_real_estate/property.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 47 seconds : 101 links scanned, 77 files written (1663867 bytes overall), 77 files updated [1195676 bytes received at 11174 bytes/sec], 673394 bytes transferred using HTTP compression in 30 files, ratio 27%, 3.8 requests per connection
+(3 errors, 22 warnings, 0 messages)

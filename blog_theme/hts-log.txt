@@ -1,0 +1,22 @@
+HTTrack3.49-2 launched on Thu, 25 May 2017 15:57:04 at http://wbpreview.com/previews/WB03KT184/
+(httrack http://wbpreview.com/previews/WB03KT184/ -O /var/www/html/mylibs/blog_theme/ )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+15:57:38	Warning: 	Retry after error -4 (No data (connection closed)) at link wbpreview.com/previews/WB03KT184/index.html (from wbpreview.com/previews/WB03KT184/)
+15:57:45	Warning: 	Retry after error -4 (No data (connection closed)) at link wbpreview.com/previews/WB03KT184/single.html (from wbpreview.com/previews/WB03KT184/)
+15:57:45	Warning: 	Retry after error -4 (No data (connection closed)) at link wbpreview.com/previews/WB03KT184/img/hillary_clinton.jpg (from wbpreview.com/previews/WB03KT184/)
+15:57:45	Warning: 	Retry after error -4 (No data (connection closed)) at link wbpreview.com/previews/WB03KT184/img/business.jpg (from wbpreview.com/previews/WB03KT184/)
+15:57:46	Warning: 	Retry after error -4 (No data (connection closed)) at link wbpreview.com/previews/WB03KT184/img/80x60-1.jpg (from wbpreview.com/previews/WB03KT184/)
+15:57:46	Warning: 	Retry after error -4 (No data (connection closed)) at link wbpreview.com/previews/WB03KT184/img/glyphicons-halflings.png (from wbpreview.com/previews/WB03KT184/css/bootstrap.css)
+15:57:47	Warning: 	Retry after error -4 (No data (connection closed)) at link wbpreview.com/previews/WB03KT184/img/glyphicons-halflings-white.png (from wbpreview.com/previews/WB03KT184/css/bootstrap.css)
+15:57:48	Warning: 	Retry after error -4 (No data (connection closed)) at link wbpreview.com/previews/WB03KT184/img/social_media_icon.png (from wbpreview.com/previews/WB03KT184/css/bootmagz_main.css)
+15:57:49	Warning: 	Retry after error -4 (No data (connection closed)) at link wbpreview.com/previews/WB03KT184/img/feat-category.jpg (from wbpreview.com/previews/WB03KT184/category.html)
+15:57:49	Warning: 	Retry after error -4 (No data (connection closed)) at link wbpreview.com/previews/WB03KT184/single.html (from wbpreview.com/previews/WB03KT184/)
+15:57:49	Warning: 	Retry after error -4 (No data (connection closed)) at link wbpreview.com/previews/WB03KT184/img/social_media_icon.png (from wbpreview.com/previews/WB03KT184/css/bootmagz_main.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 47 seconds : 44 links scanned, 32 files written (895373 bytes overall) [547576 bytes received at 11650 bytes/sec], 467414 bytes transferred using HTTP compression in 15 files, ratio 23%, 3.1 requests per connection
+(No errors, 11 warnings, 0 messages)
